@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Aila's CS 373 Blog
+title: "CS373 Summer 2016: Aila Enos"
 email: ailaenos@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm only doing this for the extra credit. On this blog, I'll be posting my weekly thoughts on class and what I liked and disliked about it.
