@@ -9,10 +9,9 @@
 title: Aila's CS 373 Blog
 email: ailaenos@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm only doing the extra credit. Here, I'll give my thoughts on each week of class.
+  I'm only doing this for the extra credit. On this blog, I'll be posting my weekly thoughts on class and what I liked and disliked about it.
 baseurl: "/SWEblog" # the subpath of your site, e.g. /blog
 url: "http://ailae.github.io" # the base hostname & protocol for your site
-twitter_username: N/A
 github_username:  ailae
 
 # Build settings
