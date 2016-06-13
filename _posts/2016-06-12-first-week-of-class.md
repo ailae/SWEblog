@@ -23,3 +23,6 @@ Honestly, class gets a little boring sometimes but it doesn't help that we have 
 
 ### Quizzes
 I just got the one text book I had to order in, so hopefully I can start reading soon. It sucks that the quizzes are only three questions and you have so little time to do them, though.
+
+### Tip of the week
+Always look at all the options. If I knew about Jekyll Now when I was making this, I probably would have went with that since it looks nicer.
